@@ -1,0 +1,9 @@
+com\practice\voting\controller\VotingAPI.class
+com\practice\voting\dto\VoteRequest.class
+com\practice\voting\repository\CandidateRepository.class
+com\practice\voting\service\impl\VotingImpl.class
+com\practice\voting\service\VotingService.class
+com\practice\voting\entity\CandidateEntity.class
+com\practice\voting\dto\CandidateRequest.class
+com\practice\voting\controller\impl\VotingController.class
+com\practice\voting\VotingApplication.class
